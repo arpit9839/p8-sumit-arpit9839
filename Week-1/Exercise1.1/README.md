@@ -1,6 +1,6 @@
 
 ## FAQ
-
+Q1. When a user enters an URL in the browser, how does the browser fetch the desiredresult ? Explain this with the below in mind and Demonstrate this by drawing a diagramfor the same.
  the process involves the browser, your computer’s operating system, your internet service provider, the server where you host the site,
  and services running on that server.
 	
